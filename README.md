@@ -6,7 +6,7 @@
 **1. Clone the repository** 
 
 ```bash
-git clone https://github.com/tamilsri02/FileUpload
+git clone https://github.com/tamilsri02/FileUpload.git
 ```
 
 **2. Run the app using maven**
